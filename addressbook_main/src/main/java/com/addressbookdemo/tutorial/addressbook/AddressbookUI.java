@@ -123,7 +123,7 @@ public class AddressbookUI extends UI {
      * back-end access and/or the user interface updates. You can further split
      * your code into classes to easier maintenance. With Vaadin you can follow
      * MVC, MVP or any other design pattern you choose.
-     */
+     ***/
     void refreshContacts() {
         refreshContacts(filter.getValue());
     }
